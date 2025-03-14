@@ -1,0 +1,3 @@
+C:/Users/chenruo/Desktop/xtfreader/build/CMakeFiles/XTF_Reader.dir
+C:/Users/chenruo/Desktop/xtfreader/build/CMakeFiles/edit_cache.dir
+C:/Users/chenruo/Desktop/xtfreader/build/CMakeFiles/rebuild_cache.dir
